@@ -1,6 +1,11 @@
 ### Welcome to my profile!
 
-I am an IT Infrastructure Assistant and a 5th-semester Computer Science student, below is my actual toolbox:
+I am an IT Infrastructure Assistant and a 5th-semester Computer Science student. Below are my certifications and current toolbox:
+
+📜 **Certifications (Check them out on my LinkedIn below)**
+<ul>
+    <li>Microsoft Azure Fundamentals (AZ-900)</li>
+</ul>
 
 🧰 **Toolbox**
 <ul>
